@@ -21,7 +21,7 @@ public class Duck : MonoBehaviour {
     void Update()
     {
 
-        Vector3 movement = new Vector3(Input.acceleration.x / 3, 0, 0);
+        Vector3 movement = new Vector3(Input.acceleration.x / 2, 0, 0);
         //Vector3 movement = new Vector3(Input.GetAxis("Horizontal") / 5, 0, 0);
 
         text.GetComponent<Text>().text = "Distance: " + distance + "M";

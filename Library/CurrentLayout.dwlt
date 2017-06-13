@@ -42,10 +42,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 683, y: 492}
+  m_MinSize: {x: 681, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 46
+  controlID: 69
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -90,8 +90,8 @@ MonoBehaviour:
     y: 0
     width: 377
     height: 573
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -209,10 +209,10 @@ MonoBehaviour:
     y: 0
     width: 1528
     height: 947
-  m_MinSize: {x: 406, y: 492}
+  m_MinSize: {x: 404, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 47
+  controlID: 70
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -233,10 +233,10 @@ MonoBehaviour:
     y: 0
     width: 1528
     height: 573
-  m_MinSize: {x: 406, y: 221}
-  m_MaxSize: {x: 8006, y: 4021}
+  m_MinSize: {x: 404, y: 221}
+  m_MaxSize: {x: 8004, y: 4021}
   vertical: 0
-  controlID: 48
+  controlID: 49
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -395,8 +395,8 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 665
+    x: -32000
+    y: -31378
     width: 1526
     height: 353
   m_SearchFilter:
@@ -416,13 +416,13 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scripts
   m_LastFoldersGridSize: 73
-  m_LastProjectPath: C:\Code\Duck Off 2.0
+  m_LastProjectPath: C:\Users\Oli\Desktop\Duck-Off-2.0
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 1e260000
-    m_LastClickedID: 9758
-    m_ExpandedIDs: 00000000b024000000ca9a3bffffff7f
+    m_SelectedIDs: 88250000
+    m_LastClickedID: 9608
+    m_ExpandedIDs: 000000003a25000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -450,7 +450,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000b0240000
+    m_ExpandedIDs: 000000003a250000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -568,7 +568,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 44ebfcff38edfcffdaedfcffa6eefcffaeeefcffeceffcff56f0fcff22f1fcff2af1fcff88f3fcff6cf7fcffd6f7fcffa4f8fcffa8f8fcfff8fafcff9afbfcff68fcfcff6cfcfcffacfdfcff16fefcffe4fefcffe8fefcffa2fffcff3e02fdfffc05fdff6609fdffca09fdff9a0afdffea44fdff8245fdff5246fdff98aefdffbeaefdff08c8fdff6ec8fdff3ac9fdffc0fdfdff28fefdfff4fefdff960cfefffe0cfeffca0dfeff2626feff8a26feff5627feffa630feff0a31feffd631feffde3bfeff423cfeff0e3dfeffb84ffeff1c50feffe850feff105cfeff3a5efeff9e5efeff745ffeff2064feff8664feff5c65feffce66feff3267feff0868feff1c6cfeff806cfeff566dfeff9890ffff3091ffff0692ffff1894ffffb094ffff8695ffffac97ffff1498ffffea98ffff929fffff2aa0ffff00a1ffff3aa4ffffd2a4ffffa8a5fffff6a6ffff8ca7ffff62a8ffffaeadffff14aeffffeaaeffff7ecbffffe4cbffffbaccffffc4d1ffff28d2fffffed2ffffc6deffff2adfffff00e0ffff80e1ffffe4e1ffffbae2ffffb0e7ffff42e8ffff18e9ffffd8fbffff00000000e4370000f4380000043a0000143b0000ac3c0000543e00006c4200004a440000
+    m_ExpandedIDs: 28f7ffffcaf7ffff9cf8ffffa4f8ffff6afbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
